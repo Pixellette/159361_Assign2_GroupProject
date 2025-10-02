@@ -15,9 +15,9 @@ List each member with their details.
 
 | Name          | GitHub Username | Student ID |
 |---------------|-----------------|------------|
-| Full Name 1   | @username       | 123456     |
-| Full Name 2   | @username       | 234567     |
-| Full Name 3   | @username       | 345678     |
+| Brook Pugmire | @Pixellette     | 123456     |
+| Lewis Hall    | @username       | 234567     |
+| Arona    | @username       | 345678     |
 | Full Name 4   | @username       | 456789     |
 
 ---
